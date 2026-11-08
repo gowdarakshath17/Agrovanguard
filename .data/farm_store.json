@@ -1,0 +1,1707 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uid": "test-user-123",
+      "email": "gowdarakshath17@gmail.com",
+      "phoneNumber": null,
+      "fullName": "gowdarakshath17",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-10T14:08:18.927Z",
+      "updatedAt": "2026-09-10T14:08:18.927Z"
+    },
+    {
+      "id": 2,
+      "uid": "gowdarakshath-user",
+      "email": "gowdarakshath17@gmail.com",
+      "phoneNumber": null,
+      "fullName": "gowdarakshath17",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-10T14:10:25.225Z",
+      "updatedAt": "2026-09-10T14:10:25.225Z"
+    },
+    {
+      "id": 3,
+      "uid": "wWYVKALayaNRZaqTzzinWgYQOb92",
+      "email": "yrox2848@gmail.com",
+      "phoneNumber": null,
+      "fullName": "yrox2848",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-10T14:10:56.324Z",
+      "updatedAt": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 4,
+      "uid": "phone_2cb02fea8eff02f4e765",
+      "email": null,
+      "phoneNumber": "+916364661571",
+      "fullName": "Farm Owner",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-11T04:11:37.119Z",
+      "updatedAt": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 5,
+      "uid": "demo_farmer_karnataka",
+      "email": "ramesh.farmer@cropsentinel.ai",
+      "phoneNumber": "+919876543210",
+      "fullName": "ramesh.farmer",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-11T05:00:23.952Z",
+      "updatedAt": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 6,
+      "uid": "phone_user_916364661571",
+      "email": "",
+      "phoneNumber": "+916364661571",
+      "fullName": "Farm Owner",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 2,
+      "role": "FARMER",
+      "createdAt": "2026-09-11T05:27:57.533Z",
+      "updatedAt": "2026-09-11T05:39:51.951Z"
+    },
+    {
+      "id": 7,
+      "uid": "XHYUMkhjphfWEX5dfKunk2iYoqI3",
+      "email": "gowdarakshath17@gmail.com",
+      "phoneNumber": null,
+      "fullName": "gowdarakshath17",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "ADMIN",
+      "createdAt": "2026-09-11T05:40:18.016Z",
+      "updatedAt": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 8,
+      "uid": "Y7RBSTEYObW8rsONyRCmaMVKOi52",
+      "email": "yh8616110@gmail.com",
+      "phoneNumber": null,
+      "fullName": "yh8616110",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-11T05:41:34.385Z",
+      "updatedAt": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 9,
+      "uid": "Tel0gJpeIEXHS1HXCcPJTrBJ2uZ2",
+      "email": "rb4051874@gmail.com",
+      "phoneNumber": "",
+      "fullName": "rb4051874",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 2,
+      "role": "FARMER",
+      "createdAt": "2026-09-11T05:50:46.521Z",
+      "updatedAt": "2026-09-11T05:50:59.330Z"
+    },
+    {
+      "id": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "phoneNumber": "+919876543210",
+      "fullName": "ramesh.patil",
+      "preferredLanguage": "English",
+      "profileEditsLeft": 3,
+      "role": "FARMER",
+      "createdAt": "2026-09-28T14:31:02.399Z",
+      "updatedAt": "2026-09-28T14:31:02.399Z"
+    }
+  ],
+  "farms": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-10T14:08:18.927Z",
+      "updatedAt": "2026-09-10T14:08:18.927Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-10T14:10:25.226Z",
+      "updatedAt": "2026-09-10T14:10:25.226Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-10T14:10:56.324Z",
+      "updatedAt": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-11T04:11:37.119Z",
+      "updatedAt": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-11T05:00:23.952Z",
+      "updatedAt": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-11T05:27:57.533Z",
+      "updatedAt": "2026-09-11T05:27:57.533Z"
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-11T05:40:18.016Z",
+      "updatedAt": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-11T05:41:34.385Z",
+      "updatedAt": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-11T05:50:46.521Z",
+      "updatedAt": "2026-09-11T05:50:46.521Z"
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "name": "Verdant Acres Farm",
+      "latitude": "19.0760",
+      "longitude": "72.8777",
+      "region": "Central Sector",
+      "createdAt": "2026-09-28T14:31:02.399Z",
+      "updatedAt": "2026-09-28T14:31:02.399Z"
+    }
+  ],
+  "fields": [
+    {
+      "id": 1,
+      "farmId": 1,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-10T14:08:18.927Z"
+    },
+    {
+      "id": 2,
+      "farmId": 2,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-10T14:10:25.226Z"
+    },
+    {
+      "id": 3,
+      "farmId": 3,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 4,
+      "farmId": 4,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 5,
+      "farmId": 5,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 6,
+      "farmId": 6,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-11T05:27:57.533Z"
+    },
+    {
+      "id": 7,
+      "farmId": 7,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 8,
+      "farmId": 8,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 9,
+      "farmId": 9,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-11T05:50:46.521Z"
+    },
+    {
+      "id": 10,
+      "farmId": 10,
+      "name": "North Plot Alpha",
+      "areaAcres": "14.5",
+      "irrigationType": "Drip System",
+      "createdAt": "2026-09-28T14:31:02.399Z"
+    }
+  ],
+  "cropCycles": [
+    {
+      "id": 1,
+      "fieldId": 1,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-30T14:08:18.927Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-10T14:08:18.927Z"
+    },
+    {
+      "id": 2,
+      "fieldId": 2,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-30T14:10:25.226Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-10T14:10:25.226Z"
+    },
+    {
+      "id": 3,
+      "fieldId": 3,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-30T14:10:56.324Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 4,
+      "fieldId": 4,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-31T04:11:37.119Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 5,
+      "fieldId": 5,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-31T05:00:23.952Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 6,
+      "fieldId": 6,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-31T05:27:57.533Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-11T05:27:57.533Z"
+    },
+    {
+      "id": 7,
+      "fieldId": 7,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-31T05:40:18.016Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 8,
+      "fieldId": 8,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-31T05:41:34.385Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 9,
+      "fieldId": 9,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-07-31T05:50:46.521Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-11T05:50:46.521Z"
+    },
+    {
+      "id": 10,
+      "fieldId": 10,
+      "crop": "Cotton",
+      "variety": "BT Cotton (Bollgard II)",
+      "sowingDate": "2026-08-17T14:31:02.399Z",
+      "isActive": true,
+      "status": "VEGETATIVE",
+      "createdAt": "2026-09-28T14:31:02.399Z"
+    }
+  ],
+  "soilTests": [
+    {
+      "id": 1,
+      "fieldId": 1,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-03T14:08:18.927Z"
+    },
+    {
+      "id": 2,
+      "fieldId": 2,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-03T14:10:25.226Z"
+    },
+    {
+      "id": 3,
+      "fieldId": 3,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-03T14:10:56.324Z"
+    },
+    {
+      "id": 4,
+      "fieldId": 4,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-04T04:11:37.119Z"
+    },
+    {
+      "id": 5,
+      "fieldId": 5,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-04T05:00:23.952Z"
+    },
+    {
+      "id": 6,
+      "fieldId": 6,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-04T05:27:57.533Z"
+    },
+    {
+      "id": 7,
+      "fieldId": 7,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-04T05:40:18.016Z"
+    },
+    {
+      "id": 8,
+      "fieldId": 8,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-04T05:41:34.385Z"
+    },
+    {
+      "id": 9,
+      "fieldId": 9,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-04T05:50:46.521Z"
+    },
+    {
+      "id": 10,
+      "fieldId": 10,
+      "ph": "6.8",
+      "ec": "0.9",
+      "nitrogen": "280",
+      "phosphorus": "22",
+      "potassium": "310",
+      "organicCarbon": "0.65",
+      "sourceType": "LAB_TEST",
+      "confidence": "HIGH",
+      "testDate": "2026-09-21T14:31:02.399Z"
+    }
+  ],
+  "iotDevices": [
+    {
+      "id": 1,
+      "fieldId": 1,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-10T14:29:06.437Z"
+    },
+    {
+      "id": 2,
+      "fieldId": 1,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-10T14:08:18.927Z"
+    },
+    {
+      "id": 3,
+      "fieldId": 1,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-10T14:08:18.927Z"
+    },
+    {
+      "id": 4,
+      "fieldId": 2,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-10T14:10:25.226Z"
+    },
+    {
+      "id": 5,
+      "fieldId": 2,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-10T14:10:25.226Z"
+    },
+    {
+      "id": 6,
+      "fieldId": 2,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-10T14:10:25.226Z"
+    },
+    {
+      "id": 7,
+      "fieldId": 3,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 8,
+      "fieldId": 3,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 9,
+      "fieldId": 3,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-10T14:10:56.324Z"
+    },
+    {
+      "id": 10,
+      "fieldId": 4,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 11,
+      "fieldId": 4,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 12,
+      "fieldId": 4,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-11T04:11:37.119Z"
+    },
+    {
+      "id": 13,
+      "fieldId": 5,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 14,
+      "fieldId": 5,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 15,
+      "fieldId": 5,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-11T05:00:23.952Z"
+    },
+    {
+      "id": 16,
+      "fieldId": 6,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-11T05:27:57.533Z"
+    },
+    {
+      "id": 17,
+      "fieldId": 6,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-11T05:27:57.533Z"
+    },
+    {
+      "id": 18,
+      "fieldId": 6,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-11T05:27:57.533Z"
+    },
+    {
+      "id": 19,
+      "fieldId": 7,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 20,
+      "fieldId": 7,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 21,
+      "fieldId": 7,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-11T05:40:18.016Z"
+    },
+    {
+      "id": 22,
+      "fieldId": 8,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 23,
+      "fieldId": 8,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 24,
+      "fieldId": 8,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-11T05:41:34.385Z"
+    },
+    {
+      "id": 25,
+      "fieldId": 9,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-11T05:50:46.521Z"
+    },
+    {
+      "id": 26,
+      "fieldId": 9,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-11T05:50:46.521Z"
+    },
+    {
+      "id": 27,
+      "fieldId": 9,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-11T05:50:46.521Z"
+    },
+    {
+      "id": 28,
+      "fieldId": 10,
+      "name": "Main Irrigation Pump",
+      "deviceType": "PUMP",
+      "status": "ON",
+      "lastActive": "2026-09-28T14:31:02.399Z"
+    },
+    {
+      "id": 29,
+      "fieldId": 10,
+      "name": "Plot A Drip Line Valve",
+      "deviceType": "DRIP_VALVE",
+      "status": "OFF",
+      "lastActive": "2026-09-28T14:31:02.399Z"
+    },
+    {
+      "id": 30,
+      "fieldId": 10,
+      "name": "Autonomous Scout Drone",
+      "deviceType": "DRONE",
+      "status": "STANDBY",
+      "lastActive": "2026-09-28T14:31:02.399Z"
+    }
+  ],
+  "interventions": [
+    {
+      "id": 1,
+      "fieldId": 1,
+      "deviceId": 1,
+      "actionType": "TURN_ON",
+      "reason": "Manual irrigation test",
+      "triggerSource": "MANUAL",
+      "createdAt": "2026-09-10T14:29:06.437Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": 62144,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:17.359Z"
+    },
+    {
+      "id": 62143,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:17.157Z"
+    },
+    {
+      "id": 62142,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:16.959Z"
+    },
+    {
+      "id": 62141,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:16.748Z"
+    },
+    {
+      "id": 62140,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:16.546Z"
+    },
+    {
+      "id": 62139,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:16.236Z"
+    },
+    {
+      "id": 62138,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:16.038Z"
+    },
+    {
+      "id": 62137,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:15.845Z"
+    },
+    {
+      "id": 62136,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:15.587Z"
+    },
+    {
+      "id": 62135,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:15.323Z"
+    },
+    {
+      "id": 62134,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:15.066Z"
+    },
+    {
+      "id": 62133,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:14.706Z"
+    },
+    {
+      "id": 62132,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:14.293Z"
+    },
+    {
+      "id": 62131,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:14.165Z"
+    },
+    {
+      "id": 62130,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.987Z"
+    },
+    {
+      "id": 62129,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.778Z"
+    },
+    {
+      "id": 62128,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.579Z"
+    },
+    {
+      "id": 62127,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.437Z"
+    },
+    {
+      "id": 62126,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.308Z"
+    },
+    {
+      "id": 62125,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.186Z"
+    },
+    {
+      "id": 62124,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:13.065Z"
+    },
+    {
+      "id": 62123,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:12.858Z"
+    },
+    {
+      "id": 62122,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:12.726Z"
+    },
+    {
+      "id": 62121,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:12.547Z"
+    },
+    {
+      "id": 62120,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:12.347Z"
+    },
+    {
+      "id": 62119,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:12.134Z"
+    },
+    {
+      "id": 62118,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:11.936Z"
+    },
+    {
+      "id": 62117,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:11.726Z"
+    },
+    {
+      "id": 62116,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:11.536Z"
+    },
+    {
+      "id": 62115,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:11.324Z"
+    },
+    {
+      "id": 62114,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:11.128Z"
+    },
+    {
+      "id": 62113,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.994Z"
+    },
+    {
+      "id": 62112,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.828Z"
+    },
+    {
+      "id": 62111,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.618Z"
+    },
+    {
+      "id": 62110,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.485Z"
+    },
+    {
+      "id": 62109,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.326Z"
+    },
+    {
+      "id": 62108,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.186Z"
+    },
+    {
+      "id": 62107,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:10.058Z"
+    },
+    {
+      "id": 62106,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:09.896Z"
+    },
+    {
+      "id": 62105,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:09.686Z"
+    },
+    {
+      "id": 62104,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:09.492Z"
+    },
+    {
+      "id": 62103,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:09.366Z"
+    },
+    {
+      "id": 62102,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:09.192Z"
+    },
+    {
+      "id": 62101,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:09.056Z"
+    },
+    {
+      "id": 62100,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:08.907Z"
+    },
+    {
+      "id": 62099,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:08.766Z"
+    },
+    {
+      "id": 62098,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:08.601Z"
+    },
+    {
+      "id": 62097,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:08.459Z"
+    },
+    {
+      "id": 62096,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:08.251Z"
+    },
+    {
+      "id": 62095,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:08.105Z"
+    },
+    {
+      "id": 62094,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:07.964Z"
+    },
+    {
+      "id": 62093,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:07.835Z"
+    },
+    {
+      "id": 62092,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:07.639Z"
+    },
+    {
+      "id": 62091,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:07.427Z"
+    },
+    {
+      "id": 62090,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:07.226Z"
+    },
+    {
+      "id": 62089,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:07.077Z"
+    },
+    {
+      "id": 62088,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:06.907Z"
+    },
+    {
+      "id": 62087,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:06.722Z"
+    },
+    {
+      "id": 62086,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:06.503Z"
+    },
+    {
+      "id": 62085,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:06.312Z"
+    },
+    {
+      "id": 62084,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:06.095Z"
+    },
+    {
+      "id": 62083,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:05.904Z"
+    },
+    {
+      "id": 62082,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:05.686Z"
+    },
+    {
+      "id": 62081,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:05.484Z"
+    },
+    {
+      "id": 62080,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:05.278Z"
+    },
+    {
+      "id": 62079,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:05.073Z"
+    },
+    {
+      "id": 62078,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:04.896Z"
+    },
+    {
+      "id": 62077,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:04.763Z"
+    },
+    {
+      "id": 62076,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:04.573Z"
+    },
+    {
+      "id": 62075,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:04.366Z"
+    },
+    {
+      "id": 62074,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:04.194Z"
+    },
+    {
+      "id": 62073,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:04.072Z"
+    },
+    {
+      "id": 62072,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:03.946Z"
+    },
+    {
+      "id": 62071,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:03.795Z"
+    },
+    {
+      "id": 62070,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:03.644Z"
+    },
+    {
+      "id": 62069,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:03.435Z"
+    },
+    {
+      "id": 62068,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:03.228Z"
+    },
+    {
+      "id": 62067,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:03.027Z"
+    },
+    {
+      "id": 62066,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:02.874Z"
+    },
+    {
+      "id": 62065,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:02.724Z"
+    },
+    {
+      "id": 62064,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:02.519Z"
+    },
+    {
+      "id": 62063,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:02.304Z"
+    },
+    {
+      "id": 62062,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:02.104Z"
+    },
+    {
+      "id": 62061,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:01.908Z"
+    },
+    {
+      "id": 62060,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:01.695Z"
+    },
+    {
+      "id": 62059,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:01.507Z"
+    },
+    {
+      "id": 62058,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:01.286Z"
+    },
+    {
+      "id": 62057,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:01.087Z"
+    },
+    {
+      "id": 62056,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:00.882Z"
+    },
+    {
+      "id": 62055,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:00.675Z"
+    },
+    {
+      "id": 62054,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:00.475Z"
+    },
+    {
+      "id": 62053,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:00.266Z"
+    },
+    {
+      "id": 62052,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:26:00.148Z"
+    },
+    {
+      "id": 62051,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:59.956Z"
+    },
+    {
+      "id": 62050,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:59.822Z"
+    },
+    {
+      "id": 62049,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:59.647Z"
+    },
+    {
+      "id": 62048,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:59.447Z"
+    },
+    {
+      "id": 62047,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:59.240Z"
+    },
+    {
+      "id": 62046,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:59.026Z"
+    },
+    {
+      "id": 62045,
+      "userId": 10,
+      "uid": "demo_farmer_maharashtra",
+      "email": "ramesh.patil@agrovanguard.ai",
+      "action": "LOGIN",
+      "details": "User accessed profile/dashboard",
+      "timestamp": "2026-09-28T15:25:58.817Z"
+    }
+  ],
+  "nextId": {
+    "users": 11,
+    "farms": 11,
+    "fields": 11,
+    "cropCycles": 11,
+    "soilTests": 11,
+    "iotDevices": 31,
+    "interventions": 2,
+    "activityLogs": 62145
+  }
+}
